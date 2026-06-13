@@ -1,6 +1,4 @@
-# CyHelp Starter Code
-
-This is the Starter Code for CyHelp!
+# CyHelp Code
 
 ### Project Requirements
 Your project should:
